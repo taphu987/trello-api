@@ -37,7 +37,6 @@
         "node": true
     },
     "extends": ["eslint:recommended"],
-    "plugins": ["babel-plugin-module-resolver"],
     "parserOptions": {
         "ecmaVersion": 2018,
         "sourceType": "module",
